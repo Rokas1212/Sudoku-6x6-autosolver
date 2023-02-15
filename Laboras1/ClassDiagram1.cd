@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Laboras1.Classes.InOutUtils">
+    <Position X="11" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Classes\InOutUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laboras1.Classes.SudokuSheet">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAQAAAAAAAAABAIAAAAAAAAAAAAAAAAAAAAAQAg=</HashCode>
+      <FileName>Classes\SudokuSheet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laboras1.Classes.TaskUtils">
+    <Position X="9" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAhAAAIAAAAAAEABCAAAAAAAAA=</HashCode>
+      <FileName>Classes\TaskUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laboras1.Forma">
+    <Position X="5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAEgAAAAEAAABAAQAAKAAAAJAAAAAAAAIAAAA=</HashCode>
+      <FileName>Forma.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
